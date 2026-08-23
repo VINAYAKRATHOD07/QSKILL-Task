@@ -5,7 +5,7 @@ Duration: 1st June 2026 – 1st July 2026
 
 Two of the three offered tasks were completed end-to-end, from data loading through model evaluation.
 
-## Tasks Completed
+## Tasks Completed 
 
 ### 1. Iris Flower Classification (`iris_classification.py`)
 Classifies iris flowers into Setosa, Versicolor, and Virginica using sepal/petal measurements.
